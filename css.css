@@ -1,0 +1,31 @@
+body{
+	width: 300px;
+}
+header{
+	padding: 10px 10px;
+	font-family: 'Slabo 27px', serif;
+	background-color: #EAEAEA;
+}
+span{
+	margin-left:20px;
+	font-size: 36px;
+}
+#icon{
+	float: left;
+	width:50px; 
+	height:50px;
+}
+img{
+	width:150px;
+	height:50px;
+}
+.input{
+	width:100%;
+	font-family: '돋움'; 
+	font-size: 11pt; 
+	border: 1px solid #999999; 
+	border-radius: 3px;
+}
+.box{
+	margin-top: 20px;
+}

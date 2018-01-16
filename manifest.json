@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Quick_Search",
+  "description": "more quickly and more easily",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "./image/icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+  ]
+}
